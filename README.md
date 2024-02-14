@@ -1,2 +1,2 @@
 # Game-Website
-Tic Toe Tac Game Website
+Tic Tac Toe Game Website
